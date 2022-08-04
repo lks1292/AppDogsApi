@@ -1,0 +1,23 @@
+.landing-page{
+    background-image: url('https://www.1zoom.me/big2/423/280454-blackangel.jpg');
+    background-size:cover;
+    width: 200vh;
+    height: 100vh;
+   
+}
+
+.buttonHome{
+    
+    opacity: 0.5;
+    background-image: url('https://media1.giphy.com/media/3oEduMwmZQylMskjT2/giphy.gif?cid=ecf05e47vxaxp8slh1cocbvifwybypzzbyp65h0pvux8g3pw&rid=giphy.gif&ct=g');
+    border: 0.5mm rgb(253, 247, 247) solid;
+    border-radius: 10mm;
+    font-size: 25px;
+    font-family: 'Bebas Neue', cursive;
+    font-weight: 300px;
+    margin-left: 1250px;
+    margin-top: 450px;
+    width: 180px;
+    height: 50px;
+    color: rgb(253, 247, 247);
+}

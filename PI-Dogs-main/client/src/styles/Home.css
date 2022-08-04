@@ -1,0 +1,24 @@
+.Component-general{
+    display: flex;
+    flex-direction: column;
+    align-items: initial;
+    align-content: flex-start;
+    width: 100%;
+    height: 100%;
+    background-color: #000000;
+}
+.filterAz{
+    display: flex;
+    color: aqua;
+}
+
+.FilterComponents{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    align-content: center;
+    width: 100%;
+    height: 100%;
+    background-color: #000000;
+}
+
